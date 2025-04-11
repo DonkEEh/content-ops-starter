@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: "Bringing Your\_Creative Vision\_To Life"
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
